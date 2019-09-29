@@ -1,0 +1,21 @@
+.control{
+  width: 200px;
+  height: 200px;
+  margin: 50px auto;
+}
+.horizontal-btn{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.up{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.down{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

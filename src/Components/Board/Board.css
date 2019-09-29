@@ -1,0 +1,10 @@
+.board{
+  width: auto;
+  height: auto;
+}
+.showBoard-hide {
+  visibility: hidden;
+}
+.showBoard-show {
+  visibility: visible;
+}
